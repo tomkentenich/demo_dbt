@@ -1,0 +1,25 @@
+
+
+============================== 2023-03-21 05:12:48.757875 | 7a2ab2cd-9de4-48b1-80e2-d062bdc60592 ==============================
+[0m05:12:48.757875 [info ] [MainThread]: Running with dbt=1.5.0-b3
+[0m05:12:48.758898 [debug] [MainThread]: running dbt with arguments {'cache_selected_only': 'False', 'version_check': 'True', 'warn_error': 'None', 'partial_parse': 'True', 'log_format': 'default', 'log_cache_events': 'False', 'printer_width': '80', 'use_experimental_parser': 'False', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'write_json': 'True', 'log_path': 'logs', 'quiet': 'False', 'send_anonymous_usage_stats': 'True', 'indirect_selection': 'eager', 'use_colors': 'True', 'fail_fast': 'False', 'debug': 'False', 'profiles_dir': 'C:\\Users\\hp\\.dbt', 'no_print': 'None'}
+[0m05:12:48.760868 [debug] [MainThread]: Starter project path: C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\dbt\include\starter_project
+[0m05:14:00.508958 [info ] [MainThread]: Profile demo2 written to C:\Users\hp\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m05:14:00.509954 [info ] [MainThread]: 
+Your new dbt project "demo2" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m05:14:00.511949 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E855E3D0D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E855DE4310>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E855A9B710>]}
+[0m05:14:00.512946 [debug] [MainThread]: Flushing usage events
